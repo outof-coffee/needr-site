@@ -1,2 +1,11 @@
 title: "Needr | Home"
 description: "Homepage of the Needr app's website."
+baseurl: ""
+url: "https://needr.coffee.team"
+theme: just-the-docs
+logo: "/assets/images/needr.png"
+aux_links:
+  "Coffee Team on GitHub":
+    - "//github.com/outof-coffee"
+color_scheme: dark
+last_edit_timestamp: true
